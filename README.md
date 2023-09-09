@@ -8,6 +8,7 @@
 * [Document analysis](https://formrecognizer.appliedai.azure.com/studio)
 * [Video Indexer](https://www.videoindexer.ai/media/library)
 
+* [Get started with Document Intelligence Studio](https://formrecognizer.appliedai.azure.com/studio)
 
 # Architect
 * [Artificial intelligence (AI) architecture design](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/)
