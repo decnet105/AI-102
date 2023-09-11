@@ -15,4 +15,7 @@
 * [Artificial intelligence (AI) architecture design](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/)
 
 # Official Collection
-* (https://learn.microsoft.com/en-us/users/sandramarin/collections/xpgig43oxk277)
+* [A102 official collection](https://learn.microsoft.com/en-us/users/sandramarin/collections/xpgig43oxk277)
+
+# References
+* [Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
