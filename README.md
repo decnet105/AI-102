@@ -3,7 +3,8 @@
 * [Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/en-us/certifications/exams/ai-102/)
 * [Github AI-102 repo](https://github.com/MicrosoftLearning/AI-102-AIEngineer)
 * [Lab](https://esi.learnondemand.net/ClassEnrollment/3863955)
-  1.  [Exercise - Create a search solution](https://learn.microsoft.com/en-us/training/modules/create-azure-cognitive-search-solution/8-exercise-search)
+  1.  [Instructions](https://github.com/MicrosoftLearning/AI-102-AIEngineer/tree/master/Instructions)
+  2.  [Exercise - Create a search solution](https://learn.microsoft.com/en-us/training/modules/create-azure-cognitive-search-solution/8-exercise-search)
 
 * [Document analysis](https://formrecognizer.appliedai.azure.com/studio)
 * [Video Indexer](https://www.videoindexer.ai/media/library)
