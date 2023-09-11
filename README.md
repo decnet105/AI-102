@@ -12,3 +12,6 @@
 
 # Architect
 * [Artificial intelligence (AI) architecture design](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/)
+
+# Official Collection
+* (https://learn.microsoft.com/en-us/users/sandramarin/collections/xpgig43oxk277)
