@@ -21,3 +21,5 @@
 * [Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
 * [Power BI template for knowledge store](https://github.com/Azure-Samples/cognitive-search-templates/tree/main/powerbi)
 * [Language and voice support for the Speech service](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=speech-translation)
+
+# updated online
