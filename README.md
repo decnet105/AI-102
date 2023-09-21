@@ -22,5 +22,6 @@
 * [Power BI template for knowledge store](https://github.com/Azure-Samples/cognitive-search-templates/tree/main/powerbi)
 * [Language and voice support for the Speech service](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=speech-translation)
 * [Vision Studio](https://portal.vision.cognitive.azure.com/gallery/featured)
+* [video indexer](https://www.videoindexer.ai/media/library)
 
 # updated online
