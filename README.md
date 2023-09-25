@@ -23,6 +23,7 @@
 * [Language and voice support for the Speech service](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=speech-translation)
 * [Vision Studio](https://portal.vision.cognitive.azure.com/gallery/featured)
 * [video indexer](https://www.videoindexer.ai/media/library)
-* [LUIS](https://www.luis.ai/)
+* [LUIS](https://www.luis.ai/) - retiring
+* [Azure Cognitive Services for Language](https://language.cognitive.azure.com/)
 
 # updated online
